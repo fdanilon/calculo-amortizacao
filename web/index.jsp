@@ -8,8 +8,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Início | Banco POO</title>
+        <title>Início</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/header.jspf" %>
